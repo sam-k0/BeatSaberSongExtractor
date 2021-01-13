@@ -1,4 +1,4 @@
-# BsaberSongExtractor
+# BeatSaberSongExtractor
 Repository for a beat saber custom song audio extractor made in python
 
 Short description on how to use;
